@@ -1,2 +1,2 @@
-add mod.ini
 add stupid.hmm
+add mod.ini
